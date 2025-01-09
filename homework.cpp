@@ -8,8 +8,9 @@ void displayList(std::vector<T> const &v);
 int main()
 {
     // You can follow along with any code in class here
-
-    
+    std::vector<int> integers = {4869,5555,69,912,2008};
+    std::vector<double> anddecimal;
+    std::vector<std::string> strings;
     return 0;
 }
 
